@@ -1,0 +1,14 @@
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.exe
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.deps.json
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.runtimeconfig.json
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.pdb
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.AssemblyInfoInputs.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.AssemblyInfo.cs
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.csproj.CoreCompileInputs.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\obj\Debug\net6.0\refint\SumOfArrayElements.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.pdb
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.genruntimeconfig.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElements\obj\Debug\net6.0\ref\SumOfArrayElements.dll
