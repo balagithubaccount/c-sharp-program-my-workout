@@ -1,0 +1,14 @@
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\bin\Debug\net6.0\SumOfArrayElementsUsing_ForEach.exe
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\bin\Debug\net6.0\SumOfArrayElementsUsing_ForEach.deps.json
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\bin\Debug\net6.0\SumOfArrayElementsUsing_ForEach.runtimeconfig.json
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\bin\Debug\net6.0\SumOfArrayElementsUsing_ForEach.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\bin\Debug\net6.0\SumOfArrayElementsUsing_ForEach.pdb
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\obj\Debug\net6.0\SumOfArrayElementsUsing_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\obj\Debug\net6.0\SumOfArrayElementsUsing_ForEach.AssemblyInfoInputs.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\obj\Debug\net6.0\SumOfArrayElementsUsing_ForEach.AssemblyInfo.cs
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\obj\Debug\net6.0\SumOfArrayElementsUsing_ForEach.csproj.CoreCompileInputs.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\obj\Debug\net6.0\SumOfArrayElementsUsing_ForEach.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\obj\Debug\net6.0\refint\SumOfArrayElementsUsing_ForEach.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\obj\Debug\net6.0\SumOfArrayElementsUsing_ForEach.pdb
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\obj\Debug\net6.0\SumOfArrayElementsUsing_ForEach.genruntimeconfig.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SumOfArrayElementsUsing_ForEach\obj\Debug\net6.0\ref\SumOfArrayElementsUsing_ForEach.dll
