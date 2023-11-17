@@ -1,0 +1,14 @@
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\bin\Debug\net6.0\SortingArray.exe
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\bin\Debug\net6.0\SortingArray.deps.json
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\bin\Debug\net6.0\SortingArray.runtimeconfig.json
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\bin\Debug\net6.0\SortingArray.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\bin\Debug\net6.0\SortingArray.pdb
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\obj\Debug\net6.0\SortingArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\obj\Debug\net6.0\SortingArray.AssemblyInfoInputs.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\obj\Debug\net6.0\SortingArray.AssemblyInfo.cs
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\obj\Debug\net6.0\SortingArray.csproj.CoreCompileInputs.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\obj\Debug\net6.0\SortingArray.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\obj\Debug\net6.0\refint\SortingArray.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\obj\Debug\net6.0\SortingArray.pdb
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\obj\Debug\net6.0\SortingArray.genruntimeconfig.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\SortingArray\obj\Debug\net6.0\ref\SortingArray.dll
