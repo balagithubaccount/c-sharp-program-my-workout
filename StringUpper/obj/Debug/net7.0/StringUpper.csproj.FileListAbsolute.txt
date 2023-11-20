@@ -1,0 +1,14 @@
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\bin\Debug\net7.0\StringUpper.exe
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\bin\Debug\net7.0\StringUpper.deps.json
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\bin\Debug\net7.0\StringUpper.runtimeconfig.json
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\bin\Debug\net7.0\StringUpper.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\bin\Debug\net7.0\StringUpper.pdb
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\obj\Debug\net7.0\StringUpper.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\obj\Debug\net7.0\StringUpper.AssemblyInfoInputs.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\obj\Debug\net7.0\StringUpper.AssemblyInfo.cs
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\obj\Debug\net7.0\StringUpper.csproj.CoreCompileInputs.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\obj\Debug\net7.0\StringUpper.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\obj\Debug\net7.0\refint\StringUpper.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\obj\Debug\net7.0\StringUpper.pdb
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\obj\Debug\net7.0\StringUpper.genruntimeconfig.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\StringUpper\obj\Debug\net7.0\ref\StringUpper.dll
