@@ -1,0 +1,7 @@
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\CallByRef_C#\bin\Debug\CallByRef_C#.exe.config
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\CallByRef_C#\bin\Debug\CallByRef_C#.exe
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\CallByRef_C#\bin\Debug\CallByRef_C#.pdb
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\CallByRef_C#\obj\Debug\CallByRef_C#.csproj.AssemblyReference.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\CallByRef_C#\obj\Debug\CallByRef_C#.csproj.CoreCompileInputs.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\CallByRef_C#\obj\Debug\CallByRef_C#.exe
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\CallByRef_C#\obj\Debug\CallByRef_C#.pdb
