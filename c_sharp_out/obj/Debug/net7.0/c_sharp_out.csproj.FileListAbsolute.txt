@@ -1,0 +1,14 @@
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\bin\Debug\net7.0\c_sharp_out.exe
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\bin\Debug\net7.0\c_sharp_out.deps.json
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\bin\Debug\net7.0\c_sharp_out.runtimeconfig.json
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\bin\Debug\net7.0\c_sharp_out.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\bin\Debug\net7.0\c_sharp_out.pdb
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\obj\Debug\net7.0\c_sharp_out.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\obj\Debug\net7.0\c_sharp_out.AssemblyInfoInputs.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\obj\Debug\net7.0\c_sharp_out.AssemblyInfo.cs
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\obj\Debug\net7.0\c_sharp_out.csproj.CoreCompileInputs.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\obj\Debug\net7.0\c_sharp_out.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\obj\Debug\net7.0\refint\c_sharp_out.dll
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\obj\Debug\net7.0\c_sharp_out.pdb
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\obj\Debug\net7.0\c_sharp_out.genruntimeconfig.cache
+E:\Bala\c#_my_workout\c-sharp-program-my-workout\c_sharp_out\obj\Debug\net7.0\ref\c_sharp_out.dll
