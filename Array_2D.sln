@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "c#_my_workout", "c#_my_workout", "{08B008E0-8685-49D6-81DC-BF1194052F47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "c-sharp-program-my-workout", "c-sharp-program-my-workout", "{B4473CFA-C41F-44F2-B150-A78B4AE7CBD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_2D", "c#_my_workout\c-sharp-program-my-workout\Array_2D\Array_2D.csproj", "{F468C5EA-32B0-4168-B681-6404D999B2FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F468C5EA-32B0-4168-B681-6404D999B2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F468C5EA-32B0-4168-B681-6404D999B2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F468C5EA-32B0-4168-B681-6404D999B2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F468C5EA-32B0-4168-B681-6404D999B2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B4473CFA-C41F-44F2-B150-A78B4AE7CBD7} = {08B008E0-8685-49D6-81DC-BF1194052F47}
+		{F468C5EA-32B0-4168-B681-6404D999B2FB} = {B4473CFA-C41F-44F2-B150-A78B4AE7CBD7}
+	EndGlobalSection
+EndGlobal
