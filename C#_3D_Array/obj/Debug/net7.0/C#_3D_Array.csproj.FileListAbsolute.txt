@@ -1,0 +1,14 @@
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\bin\Debug\net7.0\C#_3D_Array.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\bin\Debug\net7.0\C#_3D_Array.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\bin\Debug\net7.0\C#_3D_Array.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\bin\Debug\net7.0\C#_3D_Array.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\bin\Debug\net7.0\C#_3D_Array.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\obj\Debug\net7.0\C#_3D_Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\obj\Debug\net7.0\C#_3D_Array.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\obj\Debug\net7.0\C#_3D_Array.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\obj\Debug\net7.0\C#_3D_Array.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\obj\Debug\net7.0\C#_3D_Array.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\obj\Debug\net7.0\refint\C#_3D_Array.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\obj\Debug\net7.0\C#_3D_Array.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\obj\Debug\net7.0\C#_3D_Array.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\obj\Debug\net7.0\ref\C#_3D_Array.dll
