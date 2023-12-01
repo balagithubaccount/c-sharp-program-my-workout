@@ -1,0 +1,14 @@
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\bin\Debug\net7.0\SquarePattern.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\bin\Debug\net7.0\SquarePattern.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\bin\Debug\net7.0\SquarePattern.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\bin\Debug\net7.0\SquarePattern.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\bin\Debug\net7.0\SquarePattern.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\obj\Debug\net7.0\SquarePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\obj\Debug\net7.0\SquarePattern.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\obj\Debug\net7.0\SquarePattern.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\obj\Debug\net7.0\SquarePattern.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\obj\Debug\net7.0\SquarePattern.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\obj\Debug\net7.0\refint\SquarePattern.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\obj\Debug\net7.0\SquarePattern.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\obj\Debug\net7.0\SquarePattern.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\SquarePattern\obj\Debug\net7.0\ref\SquarePattern.dll
