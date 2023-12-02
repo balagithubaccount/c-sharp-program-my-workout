@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "c#_my_workout", "c#_my_workout", "{15F283D3-25E8-4C22-86EF-97DC79FF2CED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "c-sharp-program-my-workout", "c-sharp-program-my-workout", "{A9A50E58-872F-42F8-BF5C-5D7D89F51AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_3D_Array", "c#_my_workout\c-sharp-program-my-workout\C#_3D_Array\C#_3D_Array.csproj", "{8005C393-CD46-4A6A-8D0A-7906E5AF26AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquarePattern", "c#_my_workout\c-sharp-program-my-workout\SquarePattern\SquarePattern.csproj", "{20A2639E-63AE-4E5F-A7EB-D99B71EFAA1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8005C393-CD46-4A6A-8D0A-7906E5AF26AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8005C393-CD46-4A6A-8D0A-7906E5AF26AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8005C393-CD46-4A6A-8D0A-7906E5AF26AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8005C393-CD46-4A6A-8D0A-7906E5AF26AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A2639E-63AE-4E5F-A7EB-D99B71EFAA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A2639E-63AE-4E5F-A7EB-D99B71EFAA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A2639E-63AE-4E5F-A7EB-D99B71EFAA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A2639E-63AE-4E5F-A7EB-D99B71EFAA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A9A50E58-872F-42F8-BF5C-5D7D89F51AED} = {15F283D3-25E8-4C22-86EF-97DC79FF2CED}
+		{8005C393-CD46-4A6A-8D0A-7906E5AF26AC} = {A9A50E58-872F-42F8-BF5C-5D7D89F51AED}
+		{20A2639E-63AE-4E5F-A7EB-D99B71EFAA1E} = {A9A50E58-872F-42F8-BF5C-5D7D89F51AED}
+	EndGlobalSection
+EndGlobal
