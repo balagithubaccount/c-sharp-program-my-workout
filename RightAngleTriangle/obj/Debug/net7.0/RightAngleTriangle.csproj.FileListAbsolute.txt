@@ -1,0 +1,14 @@
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\bin\Debug\net7.0\RightAngleTriangle.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\bin\Debug\net7.0\RightAngleTriangle.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\bin\Debug\net7.0\RightAngleTriangle.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\bin\Debug\net7.0\RightAngleTriangle.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\bin\Debug\net7.0\RightAngleTriangle.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\obj\Debug\net7.0\RightAngleTriangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\obj\Debug\net7.0\RightAngleTriangle.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\obj\Debug\net7.0\RightAngleTriangle.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\obj\Debug\net7.0\RightAngleTriangle.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\obj\Debug\net7.0\RightAngleTriangle.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\obj\Debug\net7.0\refint\RightAngleTriangle.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\obj\Debug\net7.0\RightAngleTriangle.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\obj\Debug\net7.0\RightAngleTriangle.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\obj\Debug\net7.0\ref\RightAngleTriangle.dll
