@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "c#_my_workout", "c#_my_workout", "{70B428C3-093A-4EDB-922F-788BC7EBD73C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "c-sharp-program-my-workout", "c-sharp-program-my-workout", "{2726B7AA-458A-4A29-895B-068CD5995FEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightAngleTriangle", "c#_my_workout\c-sharp-program-my-workout\RightAngleTriangle\RightAngleTriangle.csproj", "{4254E3DC-446E-4F56-8A46-F00569B67D57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4254E3DC-446E-4F56-8A46-F00569B67D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4254E3DC-446E-4F56-8A46-F00569B67D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4254E3DC-446E-4F56-8A46-F00569B67D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4254E3DC-446E-4F56-8A46-F00569B67D57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2726B7AA-458A-4A29-895B-068CD5995FEE} = {70B428C3-093A-4EDB-922F-788BC7EBD73C}
+		{4254E3DC-446E-4F56-8A46-F00569B67D57} = {2726B7AA-458A-4A29-895B-068CD5995FEE}
+	EndGlobalSection
+EndGlobal
