@@ -1,0 +1,14 @@
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\obj\Debug\net7.0\Pattern_Triangle_Num.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\obj\Debug\net7.0\Pattern_Triangle_Num.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\obj\Debug\net7.0\Pattern_Triangle_Num.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\obj\Debug\net7.0\Pattern_Triangle_Num.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\bin\Debug\net7.0\Pattern_Triangle_Num.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\bin\Debug\net7.0\Pattern_Triangle_Num.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\bin\Debug\net7.0\Pattern_Triangle_Num.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\bin\Debug\net7.0\Pattern_Triangle_Num.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\bin\Debug\net7.0\Pattern_Triangle_Num.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\obj\Debug\net7.0\Pattern_Triangle_Num.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\obj\Debug\net7.0\refint\Pattern_Triangle_Num.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\obj\Debug\net7.0\Pattern_Triangle_Num.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\obj\Debug\net7.0\Pattern_Triangle_Num.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Pattern_Triangle_Num\obj\Debug\net7.0\ref\Pattern_Triangle_Num.dll
