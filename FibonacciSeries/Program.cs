@@ -11,13 +11,16 @@ namespace FibonacciSeries
         static void Main(string[] args)
         {
             Console.Write("Input the number of terms: ");
+			
             int terms = Convert.ToInt32(Console.ReadLine());
+			
             Fibonacci myMethod = new Fibonacci(terms);
         }
     }
 }
 
 /*
+
 Sample Output:
  
 Input the number of terms: 10
