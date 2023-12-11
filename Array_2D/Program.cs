@@ -1,4 +1,4 @@
-﻿Console.WriteLine("2D Array:\n");
+﻿Console.WriteLine("2D Array is:\n");
 int[,] arr_2d = new int[2, 3] { { 1, 2, 3 }, { 4, 5, 6 } };
 
 for (int i = 0; i < 2; i++)
@@ -12,7 +12,7 @@ for (int i = 0; i < 2; i++)
 /*
 Sample Output:
 
-2D Array:
+2D Array is:
 
 1 2 3 
 
