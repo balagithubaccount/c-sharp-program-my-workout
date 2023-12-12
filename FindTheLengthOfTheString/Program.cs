@@ -12,14 +12,16 @@ namespace FindTheLengthOfTheString
         {
             Console.WriteLine("Input the string: ");
             string Str = Console.ReadLine();
+			
             Console.WriteLine("Given String is: {0}", Str);
+			
             Console.WriteLine("Length of the string is: {0}", Str.Length);
         }
     }
 }
 
 /* 
- Sample Output:
+Sample Output:
 
 Input the string:
 A string in C# is actually an object.
