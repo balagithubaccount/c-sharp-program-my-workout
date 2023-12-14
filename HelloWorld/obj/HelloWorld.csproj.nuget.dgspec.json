@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Bala\\CSharp\\c-sharp-program-my-workout\\HelloWorld\\HelloWorld.csproj": {}
+    "E:\\VisualStudio Proj\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "E:\\Bala\\CSharp\\c-sharp-program-my-workout\\HelloWorld\\HelloWorld.csproj": {
+    "E:\\VisualStudio Proj\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Bala\\CSharp\\c-sharp-program-my-workout\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "E:\\VisualStudio Proj\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "E:\\Bala\\CSharp\\c-sharp-program-my-workout\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "E:\\VisualStudio Proj\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Bala\\CSharp\\c-sharp-program-my-workout\\HelloWorld\\obj\\",
+        "outputPath": "E:\\VisualStudio Proj\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
