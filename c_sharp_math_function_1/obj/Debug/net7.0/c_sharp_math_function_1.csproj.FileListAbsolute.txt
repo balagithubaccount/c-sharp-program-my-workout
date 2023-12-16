@@ -1,0 +1,14 @@
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\obj\Debug\net7.0\c_sharp_math_function_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\obj\Debug\net7.0\c_sharp_math_function_1.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\obj\Debug\net7.0\c_sharp_math_function_1.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\obj\Debug\net7.0\c_sharp_math_function_1.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\bin\Debug\net7.0\c_sharp_math_function_1.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\bin\Debug\net7.0\c_sharp_math_function_1.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\bin\Debug\net7.0\c_sharp_math_function_1.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\bin\Debug\net7.0\c_sharp_math_function_1.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\bin\Debug\net7.0\c_sharp_math_function_1.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\obj\Debug\net7.0\c_sharp_math_function_1.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\obj\Debug\net7.0\refint\c_sharp_math_function_1.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\obj\Debug\net7.0\c_sharp_math_function_1.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\obj\Debug\net7.0\c_sharp_math_function_1.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c_sharp_math_function_1\obj\Debug\net7.0\ref\c_sharp_math_function_1.dll
