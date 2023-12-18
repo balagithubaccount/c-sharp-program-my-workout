@@ -19,6 +19,7 @@ public class first
             Console.WriteLine("{0} and {1} are equal.\n", int1, int2);
         else
             Console.WriteLine("{0} and {1} are not equal.\n", int1, int2);
+		
 		Console.WriteLine("Program Finished...");
     }
 }
