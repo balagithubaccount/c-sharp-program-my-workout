@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace FibonacciSeries
 {
+	
     internal class Program
     {
+		
         static void Main(string[] args)
         {
             Console.Write("Input the number of terms: ");
