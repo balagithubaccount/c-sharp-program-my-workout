@@ -10,9 +10,11 @@ public class first
         Console.WriteLine("\n");
         
         Console.Write("Input 1st number: ");
+		
         int1 = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Input 2nd number: ");
+		
         int2 = Convert.ToInt32(Console.ReadLine());
 
         if (int1 == int2)
