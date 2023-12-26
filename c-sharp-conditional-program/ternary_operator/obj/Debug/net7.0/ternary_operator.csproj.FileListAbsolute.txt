@@ -1,0 +1,14 @@
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\obj\Debug\net7.0\ternary_operator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\obj\Debug\net7.0\ternary_operator.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\obj\Debug\net7.0\ternary_operator.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\obj\Debug\net7.0\ternary_operator.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\bin\Debug\net7.0\ternary_operator.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\bin\Debug\net7.0\ternary_operator.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\bin\Debug\net7.0\ternary_operator.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\bin\Debug\net7.0\ternary_operator.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\bin\Debug\net7.0\ternary_operator.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\obj\Debug\net7.0\ternary_operator.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\obj\Debug\net7.0\refint\ternary_operator.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\obj\Debug\net7.0\ternary_operator.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\obj\Debug\net7.0\ternary_operator.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\ternary_operator\obj\Debug\net7.0\ref\ternary_operator.dll
