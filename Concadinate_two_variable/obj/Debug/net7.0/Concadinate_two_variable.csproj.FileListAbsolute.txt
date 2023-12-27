@@ -1,0 +1,14 @@
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\bin\Debug\net7.0\Concadinate_two_variable.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\bin\Debug\net7.0\Concadinate_two_variable.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\bin\Debug\net7.0\Concadinate_two_variable.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\bin\Debug\net7.0\Concadinate_two_variable.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\bin\Debug\net7.0\Concadinate_two_variable.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\obj\Debug\net7.0\Concadinate_two_variable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\obj\Debug\net7.0\Concadinate_two_variable.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\obj\Debug\net7.0\Concadinate_two_variable.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\obj\Debug\net7.0\Concadinate_two_variable.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\obj\Debug\net7.0\Concadinate_two_variable.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\obj\Debug\net7.0\refint\Concadinate_two_variable.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\obj\Debug\net7.0\Concadinate_two_variable.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\obj\Debug\net7.0\Concadinate_two_variable.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Concadinate_two_variable\obj\Debug\net7.0\ref\Concadinate_two_variable.dll

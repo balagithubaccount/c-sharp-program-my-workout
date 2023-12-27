@@ -16,3 +16,10 @@ public class First
         return 0;
     }
 }
+
+/*
+Sample Output:
+
+Result: 10
+
+*/
