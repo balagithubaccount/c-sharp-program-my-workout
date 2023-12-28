@@ -1,0 +1,14 @@
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\bin\Debug\net7.0\TypeConversionMethods.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\bin\Debug\net7.0\TypeConversionMethods.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\bin\Debug\net7.0\TypeConversionMethods.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\bin\Debug\net7.0\TypeConversionMethods.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\bin\Debug\net7.0\TypeConversionMethods.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\obj\Debug\net7.0\TypeConversionMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\obj\Debug\net7.0\TypeConversionMethods.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\obj\Debug\net7.0\TypeConversionMethods.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\obj\Debug\net7.0\TypeConversionMethods.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\obj\Debug\net7.0\TypeConversionMethods.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\obj\Debug\net7.0\refint\TypeConversionMethods.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\obj\Debug\net7.0\TypeConversionMethods.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\obj\Debug\net7.0\TypeConversionMethods.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeConversionMethods\obj\Debug\net7.0\ref\TypeConversionMethods.dll
