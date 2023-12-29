@@ -1,0 +1,14 @@
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\bin\Debug\net7.0\TypeOperator.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\bin\Debug\net7.0\TypeOperator.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\bin\Debug\net7.0\TypeOperator.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\bin\Debug\net7.0\TypeOperator.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\bin\Debug\net7.0\TypeOperator.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\obj\Debug\net7.0\TypeOperator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\obj\Debug\net7.0\TypeOperator.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\obj\Debug\net7.0\TypeOperator.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\obj\Debug\net7.0\TypeOperator.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\obj\Debug\net7.0\TypeOperator.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\obj\Debug\net7.0\refint\TypeOperator.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\obj\Debug\net7.0\TypeOperator.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\obj\Debug\net7.0\TypeOperator.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TypeOperator\obj\Debug\net7.0\ref\TypeOperator.dll
