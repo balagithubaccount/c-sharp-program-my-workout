@@ -1,0 +1,14 @@
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\bin\Debug\net7.0\C_Sharp_GetTypeMethod.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\bin\Debug\net7.0\C_Sharp_GetTypeMethod.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\bin\Debug\net7.0\C_Sharp_GetTypeMethod.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\bin\Debug\net7.0\C_Sharp_GetTypeMethod.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\bin\Debug\net7.0\C_Sharp_GetTypeMethod.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\obj\Debug\net7.0\C_Sharp_GetTypeMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\obj\Debug\net7.0\C_Sharp_GetTypeMethod.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\obj\Debug\net7.0\C_Sharp_GetTypeMethod.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\obj\Debug\net7.0\C_Sharp_GetTypeMethod.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\obj\Debug\net7.0\C_Sharp_GetTypeMethod.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\obj\Debug\net7.0\refint\C_Sharp_GetTypeMethod.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\obj\Debug\net7.0\C_Sharp_GetTypeMethod.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\obj\Debug\net7.0\C_Sharp_GetTypeMethod.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\C_Sharp_GetTypeMethod\obj\Debug\net7.0\ref\C_Sharp_GetTypeMethod.dll
