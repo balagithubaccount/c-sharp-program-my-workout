@@ -1,0 +1,14 @@
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\obj\Debug\net7.0\Given_Num_Even_or_Odd.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\obj\Debug\net7.0\Given_Num_Even_or_Odd.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\obj\Debug\net7.0\Given_Num_Even_or_Odd.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\obj\Debug\net7.0\Given_Num_Even_or_Odd.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\bin\Debug\net7.0\Given_Num_Even_or_Odd.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\bin\Debug\net7.0\Given_Num_Even_or_Odd.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\bin\Debug\net7.0\Given_Num_Even_or_Odd.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\bin\Debug\net7.0\Given_Num_Even_or_Odd.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\bin\Debug\net7.0\Given_Num_Even_or_Odd.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\obj\Debug\net7.0\Given_Num_Even_or_Odd.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\obj\Debug\net7.0\refint\Given_Num_Even_or_Odd.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\obj\Debug\net7.0\Given_Num_Even_or_Odd.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\obj\Debug\net7.0\Given_Num_Even_or_Odd.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Even_or_Odd\obj\Debug\net7.0\ref\Given_Num_Even_or_Odd.dll
