@@ -37,7 +37,7 @@ namespace MyApplication
 }
 
 /*
-Sample Output:
+Sample Output 1:
 
 Enter the positive integer value: -1
 Invalid Input
@@ -45,5 +45,12 @@ Enter the positive integer value: 0
 Invalid Input
 Enter the positive integer value: 12
 Given number 12 is Not a Prime.
+
+Sample Output 2:
+
+Enter the positive integer value: 0
+Invalid Input
+Enter the positive integer value: 23
+Given number 23 is Prime.
 
 */

@@ -12,3 +12,17 @@ E:\Bala\BalaGitHub\Given_Num_Prime_Or_Not\obj\Debug\net7.0\refint\Given_Num_Prim
 E:\Bala\BalaGitHub\Given_Num_Prime_Or_Not\obj\Debug\net7.0\Given_Num_Prime_Or_Not.pdb
 E:\Bala\BalaGitHub\Given_Num_Prime_Or_Not\obj\Debug\net7.0\Given_Num_Prime_Or_Not.genruntimeconfig.cache
 E:\Bala\BalaGitHub\Given_Num_Prime_Or_Not\obj\Debug\net7.0\ref\Given_Num_Prime_Or_Not.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\bin\Debug\net7.0\Given_Num_Prime_Or_Not.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\bin\Debug\net7.0\Given_Num_Prime_Or_Not.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\bin\Debug\net7.0\Given_Num_Prime_Or_Not.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\bin\Debug\net7.0\Given_Num_Prime_Or_Not.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\bin\Debug\net7.0\Given_Num_Prime_Or_Not.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\obj\Debug\net7.0\Given_Num_Prime_Or_Not.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\obj\Debug\net7.0\Given_Num_Prime_Or_Not.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\obj\Debug\net7.0\Given_Num_Prime_Or_Not.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\obj\Debug\net7.0\Given_Num_Prime_Or_Not.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\obj\Debug\net7.0\Given_Num_Prime_Or_Not.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\obj\Debug\net7.0\refint\Given_Num_Prime_Or_Not.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\obj\Debug\net7.0\Given_Num_Prime_Or_Not.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\obj\Debug\net7.0\Given_Num_Prime_Or_Not.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\c-sharp-conditional-program\Given_Num_Prime_Or_Not\obj\Debug\net7.0\ref\Given_Num_Prime_Or_Not.dll
