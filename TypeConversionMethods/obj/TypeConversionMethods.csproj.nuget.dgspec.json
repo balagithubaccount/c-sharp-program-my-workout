@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\TypeConversionMethods\\TypeConversionMethods.csproj": {}
+    "e:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\TypeConversionMethods\\TypeConversionMethods.csproj": {}
   },
   "projects": {
-    "E:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\TypeConversionMethods\\TypeConversionMethods.csproj": {
+    "e:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\TypeConversionMethods\\TypeConversionMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\TypeConversionMethods\\TypeConversionMethods.csproj",
+        "projectUniqueName": "e:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\TypeConversionMethods\\TypeConversionMethods.csproj",
         "projectName": "TypeConversionMethods",
-        "projectPath": "E:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\TypeConversionMethods\\TypeConversionMethods.csproj",
+        "projectPath": "e:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\TypeConversionMethods\\TypeConversionMethods.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\TypeConversionMethods\\obj\\",
+        "outputPath": "e:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\TypeConversionMethods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
