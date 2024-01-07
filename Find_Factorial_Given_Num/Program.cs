@@ -48,4 +48,9 @@ Input the Integer value: 12
 Given Number : 12
 Factorial of 12 is: 479001600.
 
+Sample Output:
+
+Input the Integer value: -13
+Given Number : -13
+Factorial of -13 is: -6227020800.
 */
