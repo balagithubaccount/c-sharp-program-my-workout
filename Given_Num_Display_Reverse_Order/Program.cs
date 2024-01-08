@@ -45,7 +45,7 @@ namespace MyApplication
 /*
 Sample Output:
 
-Input the Integer value: 7456
+Input the Positive Integer value: 7456
 Given Number : 7456
 Given Number in Reverse Order : 6547
 
@@ -58,5 +58,8 @@ Given Number : -69
 Input the Positive Integer value: 3412
 Given Number : 3412
 Given Number in Reverse Order : 2143
+
+Sample Output:
+
 
 */
