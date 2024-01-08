@@ -61,5 +61,10 @@ Given Number in Reverse Order : 2143
 
 Sample Output:
 
+Input the Positive Integer value: -981
+Given Number : -981
+Input the Positive Integer value: 981
+Given Number : 981
+Given Number in Reverse Order : 189
 
 */
