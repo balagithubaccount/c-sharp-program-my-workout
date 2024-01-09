@@ -53,4 +53,13 @@ Sample Output:
 Input the Integer value: -13
 Given Number : -13
 Factorial of -13 is: -6227020800.
+
+Sample Output:
+
+Input the Integer value: 5
+Given Number : 5
+Factorial of 5 is: 120.
+
+
+
 */
