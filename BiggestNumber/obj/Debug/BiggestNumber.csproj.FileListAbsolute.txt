@@ -1,7 +1,0 @@
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\BiggestNumber\bin\Debug\BiggestNumber.exe.config
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\BiggestNumber\bin\Debug\BiggestNumber.exe
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\BiggestNumber\bin\Debug\BiggestNumber.pdb
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\BiggestNumber\obj\Debug\BiggestNumber.csproj.AssemblyReference.cache
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\BiggestNumber\obj\Debug\BiggestNumber.csproj.CoreCompileInputs.cache
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\BiggestNumber\obj\Debug\BiggestNumber.exe
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\BiggestNumber\obj\Debug\BiggestNumber.pdb
