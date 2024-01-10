@@ -1,7 +1,0 @@
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\FibonacciSeries\bin\Debug\FibonacciSeries.exe.config
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\FibonacciSeries\bin\Debug\FibonacciSeries.exe
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\FibonacciSeries\bin\Debug\FibonacciSeries.pdb
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.AssemblyReference.cache
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.CoreCompileInputs.cache
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\FibonacciSeries\obj\Debug\FibonacciSeries.exe
-E:\Bala\c#_my_workout\c-sharp-program-my-workout\FibonacciSeries\obj\Debug\FibonacciSeries.pdb
