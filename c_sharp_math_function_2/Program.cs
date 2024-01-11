@@ -6,8 +6,11 @@ namespace c_sharp_math_function_2
     {
         static void Main(string[] args)
         {
+            double givNum;
             Console.WriteLine("C# Math Function:");
-            Console.WriteLine("Square Root of 144 is: {0}", Math.Sqrt(144));
+            Console.Write("Input the value: ");
+            givNum = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Square Root of {0} is: {1}", givNum, Math.Sqrt(givNum));
             Console.WriteLine("Round of 912.3254 is: {0}", Math.Round(912.3254));
         }
     }
@@ -17,7 +20,8 @@ namespace c_sharp_math_function_2
 Sample Output:
 
 C# Math Function:
-Square Root of 144 is: 12
+Input the value: 64
+Square Root of 64 is: 8
 Round of 912.3254 is: 912
 
 */
