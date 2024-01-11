@@ -24,4 +24,10 @@ Input the value: 64
 Square Root of 64 is: 8
 Round of 912.3254 is: 912
 
+Sample Output:
+
+C# Math Function:
+Input the value: 343
+Square Root of 343 is: 18.520259177452136
+Round of 912.3254 is: 912
 */
