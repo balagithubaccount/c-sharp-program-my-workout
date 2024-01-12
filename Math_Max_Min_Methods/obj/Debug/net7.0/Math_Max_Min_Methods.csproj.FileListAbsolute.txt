@@ -1,0 +1,14 @@
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\obj\Debug\net7.0\Math_Max_Min_Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\obj\Debug\net7.0\Math_Max_Min_Methods.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\obj\Debug\net7.0\Math_Max_Min_Methods.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\obj\Debug\net7.0\Math_Max_Min_Methods.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\bin\Debug\net7.0\Math_Max_Min_Methods.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\bin\Debug\net7.0\Math_Max_Min_Methods.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\bin\Debug\net7.0\Math_Max_Min_Methods.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\bin\Debug\net7.0\Math_Max_Min_Methods.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\bin\Debug\net7.0\Math_Max_Min_Methods.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\obj\Debug\net7.0\Math_Max_Min_Methods.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\obj\Debug\net7.0\refint\Math_Max_Min_Methods.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\obj\Debug\net7.0\Math_Max_Min_Methods.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\obj\Debug\net7.0\Math_Max_Min_Methods.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\Math_Max_Min_Methods\obj\Debug\net7.0\ref\Math_Max_Min_Methods.dll
