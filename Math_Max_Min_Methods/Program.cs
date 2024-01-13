@@ -17,7 +17,7 @@ namespace MyApplication
             Num2 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Minimum of {0} and {1} is: {2}", Num1, Num2, Math.Min(Num1, Num2));
-            //Console.WriteLine("Maximum of {0} and {1} is: {2}", Num1, Num2, Math.Max(Num1, Num2));
+            Console.WriteLine("Maximum of {0} and {1} is: {2}", Num1, Num2, Math.Max(Num1, Num2));
         }
     }
 }
@@ -26,8 +26,9 @@ namespace MyApplication
 Sample Output:
 
 C# Math Function
-Input the first number: 87
-Input the second number: 64
-Minimum of 87 and 64 is: 64
+Input the first number: 123
+Input the second number: 231
+Minimum of 123 and 231 is: 123
+Maximum of 123 and 231 is: 231
 
 */
