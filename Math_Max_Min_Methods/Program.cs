@@ -31,4 +31,12 @@ Input the second number: 231
 Minimum of 123 and 231 is: 123
 Maximum of 123 and 231 is: 231
 
+Sample Output:
+
+C# Math Function
+Input the first number: 341
+Input the second number: 234
+Minimum of 341 and 234 is: 234
+Maximum of 341 and 234 is: 341
+
 */
