@@ -10,7 +10,10 @@ namespace Pattern_Triangle_Num
     {
         static void Main(string[] args)
         {
-            int row = 6;
+            int row;
+            Console.Write("Input the Number of Row: ");
+            row = Convert.ToInt32(Console.ReadLine());
+
             for (int i = 1; i <= row; i++)
             {
                 for (int j = 1; j <= i; j++)
@@ -26,11 +29,11 @@ namespace Pattern_Triangle_Num
 /*
 Sample Output:
 
-1
-1 2
-1 2 3
-1 2 3 4
-1 2 3 4 5
-1 2 3 4 5 6
+Input the Number of Row: 5
+1         
+1 2       
+1 2 3     
+1 2 3 4   
+1 2 3 4 5 
 
 */
