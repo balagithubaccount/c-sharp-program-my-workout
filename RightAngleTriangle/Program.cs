@@ -27,4 +27,19 @@ Input the number of row: 4
 **
 ***
 ****
+
+Sample Output:
+
+Input the number of row: 10
+*
+**        
+***       
+****      
+*****     
+******    
+*******   
+********  
+********* 
+**********
+
 */
