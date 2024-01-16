@@ -29,6 +29,12 @@ namespace Pattern_Triangle_Num
 /*
 Sample Output:
 
+Input the Number of Row: 2
+1   
+1 2 
+
+Sample Output:
+
 Input the Number of Row: 5
 1         
 1 2       
@@ -47,4 +53,6 @@ Input the Number of Row: 8
 1 2 3 4 5 6   
 1 2 3 4 5 6 7 
 1 2 3 4 5 6 7 8
+
+
 */
