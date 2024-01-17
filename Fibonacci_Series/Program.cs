@@ -58,9 +58,9 @@ namespace MyApplication
 
 Sample Output:
  
-Input the number of terms: 10
-Here is the fibonacci series upto 10 terms:
-0 1 1 2 4 7 13 24 44 81
+Input the number of terms: 11 
+Here is the fibonacci series upto 11 terms: 
+0 1 1 2 4 7 13 24 44 81 149 
 
 Sample Output:
 
