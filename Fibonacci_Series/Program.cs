@@ -73,4 +73,11 @@ Sample Output:
 Input the number of terms: 9 
 Here is the fibonacci series upto 9 terms: 
 0 1 1 2 4 7 13 24 44 
+
+Sample Output:
+
+Input the number of terms: 13
+Here is the fibonacci series upto 13 terms: 
+0 1 1 2 4 7 13 24 44 81 149 274 504
+
 */
