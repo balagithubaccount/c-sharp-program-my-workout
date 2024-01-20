@@ -40,4 +40,11 @@ First Name is: Bala
 Last Name is: Saravanan
 Full Name is: Bala Saravanan
 
+Sample Output:
+
+Enter your first name: Leo
+Enter your second name: Das
+First Name is: Leo   
+Last Name is: Das    
+Full Name is: Leo Das
 */
