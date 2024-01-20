@@ -44,7 +44,13 @@ Sample Output:
 
 Enter your first name: Leo
 Enter your second name: Das
-First Name is: Leo   
-Last Name is: Das    
+First Name is: Leo
+Last Name is: Das
 Full Name is: Leo Das
+
+Enter your first name: Harry
+Enter your second name: Potter
+First Name is: Harry
+Last Name is: Potter
+Full Name is: Harry Potter
 */
