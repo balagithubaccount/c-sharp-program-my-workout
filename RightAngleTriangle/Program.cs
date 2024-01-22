@@ -8,8 +8,9 @@ for (int i = 0; i < row; i++)
     }
     Console.Write("\n");
 }
+
 /*
-Sample Output:
+Sample Output:1
 
 Input the number of row: 7
 *
@@ -20,7 +21,8 @@ Input the number of row: 7
 ******
 *******
 
-Sample Output:
+
+Sample Output:2
 
 Input the number of row: 4
 *
@@ -28,7 +30,8 @@ Input the number of row: 4
 ***
 ****
 
-Sample Output:
+
+Sample Output:3
 
 Input the number of row: 10
 *
