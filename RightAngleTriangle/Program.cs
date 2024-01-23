@@ -45,4 +45,15 @@ Input the number of row: 10
 *********
 **********
 
+Sample Output:
+
+Input the number of row: 8
+*
+**      
+***     
+****    
+*****   
+******  
+******* 
+********
 */
