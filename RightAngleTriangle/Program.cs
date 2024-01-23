@@ -45,7 +45,7 @@ Input the number of row: 10
 *********
 **********
 
-Sample Output:
+Sample Output:4
 
 Input the number of row: 8
 *
