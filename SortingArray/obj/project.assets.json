@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Bala\\c#_my_workout\\c-sharp-program-my-workout\\SortingArray\\SortingArray.csproj",
+      "projectUniqueName": "E:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\SortingArray\\SortingArray.csproj",
       "projectName": "SortingArray",
-      "projectPath": "E:\\Bala\\c#_my_workout\\c-sharp-program-my-workout\\SortingArray\\SortingArray.csproj",
+      "projectPath": "E:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\SortingArray\\SortingArray.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Bala\\c#_my_workout\\c-sharp-program-my-workout\\SortingArray\\obj\\",
+      "outputPath": "E:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\SortingArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

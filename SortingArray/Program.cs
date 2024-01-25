@@ -10,22 +10,22 @@ for (int i = 0; i < size; i++)
 }
 Array.Sort(arr);
 Console.WriteLine("Sorted Array is:");
-for(int i = 0; i < arr.Length; i++)
+for (int i = 0; i < arr.Length; i++)
 {
     Console.WriteLine(arr[i]);
 }
 
-/*    
- Sample Output:
+/*
+Sample Output:1
 
 Input the array size: 6
-Enter the 6 Elements:
+Enter the 6 Elements: 
 1
-6
 2
+6
 5
-3
 4
+3
 Sorted Array is:
 1
 2
