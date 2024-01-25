@@ -16,10 +16,11 @@ for (int i = 0; i < arr.Length; i++)
 }
 
 /*
+
 Sample Output:1
 
 Input the array size: 6
-Enter the 6 Elements: 
+Enter the 6 Elements:
 1
 2
 6
@@ -33,5 +34,27 @@ Sorted Array is:
 4
 5
 6
- 
- */
+
+Sample Output:2
+
+Input the array size: 8
+Enter the 8 Elements:
+8
+1
+7
+2
+6
+3
+5
+4
+Sorted Array is:
+1
+2
+3
+4
+5
+6
+7
+8
+
+*/
