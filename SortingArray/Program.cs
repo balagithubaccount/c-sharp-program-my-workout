@@ -57,4 +57,30 @@ Sorted Array is:
 7
 8
 
+Sample Output:3
+
+Input the array size: 10
+Enter the 10 Elements:
+10
+23
+44
+56
+12
+11
+32
+15
+76
+58
+Sorted Array is:
+10
+11
+12
+15
+23
+32
+44
+56
+58
+76
+
 */
