@@ -83,4 +83,28 @@ Sorted Array is:
 58
 76
 
+Sample Output:4
+
+Input the array size: 9
+Enter the 9 Elements: 
+12
+23
+34
+45
+56
+67
+78
+89
+90
+Sorted Array is:
+12
+23
+34
+45
+56
+67
+78
+89
+90
+
 */
