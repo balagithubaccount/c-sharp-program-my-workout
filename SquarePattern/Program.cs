@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Enter the number of rows: ");
+        Console.Write("Input the number of rows: ");
         int no_of_row = Convert.ToInt32(Console.ReadLine());
 
         for (int i = 0; i < no_of_row; i++)
@@ -19,9 +19,9 @@ class Program
 }
 
 /*
-Sample Output:
+Sample Output:1
 
-Enter the number of rows: 5
+Input the number of rows: 5
 * * * * * 
 * * * * * 
 * * * * * 
