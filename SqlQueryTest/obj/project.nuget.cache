@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5yYCY5K/DDRElpBpfUJfzvw/QDsr2mt5Zyk/QwKCjriMzUqHAGZrsVnX9joQ0rT+Ahovge1qs7lb1RH/1l8Q9Q==",
+  "success": true,
+  "projectFilePath": "E:\\Bala\\BalaGitHub\\c#_my_workout\\c-sharp-program-my-workout\\SqlQueryTest\\SqlQueryTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}

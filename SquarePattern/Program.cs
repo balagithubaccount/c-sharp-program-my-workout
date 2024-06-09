@@ -22,10 +22,17 @@ class Program
 Sample Output:1
 
 Input the number of rows: 5
-* * * * * 
-* * * * * 
-* * * * * 
-* * * * * 
-* * * * * 
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+Sample Output:2
+
+Input the number of rows: 3
+* * *
+* * *
+* * *
 
 */

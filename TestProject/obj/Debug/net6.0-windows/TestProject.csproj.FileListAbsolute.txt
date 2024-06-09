@@ -1,0 +1,16 @@
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\bin\Debug\net6.0-windows\TestProject.exe
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\bin\Debug\net6.0-windows\TestProject.deps.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\bin\Debug\net6.0-windows\TestProject.runtimeconfig.json
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\bin\Debug\net6.0-windows\TestProject.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\bin\Debug\net6.0-windows\TestProject.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\obj\Debug\net6.0-windows\TestProject.Form1.resources
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\obj\Debug\net6.0-windows\TestProject.csproj.GenerateResource.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\obj\Debug\net6.0-windows\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\obj\Debug\net6.0-windows\TestProject.AssemblyInfoInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\obj\Debug\net6.0-windows\TestProject.AssemblyInfo.cs
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\obj\Debug\net6.0-windows\TestProject.csproj.CoreCompileInputs.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\obj\Debug\net6.0-windows\TestProject.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\obj\Debug\net6.0-windows\refint\TestProject.dll
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\obj\Debug\net6.0-windows\TestProject.pdb
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\obj\Debug\net6.0-windows\TestProject.genruntimeconfig.cache
+E:\Bala\BalaGitHub\c#_my_workout\c-sharp-program-my-workout\TestProject\obj\Debug\net6.0-windows\ref\TestProject.dll
